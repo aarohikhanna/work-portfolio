@@ -1,5 +1,11 @@
 aarohikhanna.tech
-html5up.net | @ajlkn
+
+Hi, welcome to my online portfolio. I am all things art, creativity and technology. Over the years my passion for experimenting with the three has increased. I am an engineer by degree and work as Technical Product manager as well data analyst for projects. If you want to discuss oppurtunities, please mail at akaarohi1@gmail.com. 
+
+
+<---------- Original license of template --------->
+
+- html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
